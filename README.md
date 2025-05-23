@@ -36,7 +36,7 @@ Get the latest **tech news** in one place with **Prem Tech News**! 🚀 Stay inf
 ## ⚡ Setup Instructions
 1️⃣ Clone the repository:  
 ```bash
-git clone 
+git clone https://github.com/Premsagar6/PremTechNews.git
 ```
 2️⃣ Open `index.html` in your web browser.
 
